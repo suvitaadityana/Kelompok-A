@@ -1,0 +1,31 @@
+@charset "utf-8";
+.menu_link {
+}
+.tentang_link {
+	background-color: #FCF;
+}
+
+.home_link {
+	background-color: rgb(255,204,255);
+}
+.produk_link {
+	background-color: rgb(255,204,255);
+}
+.ordering_link {
+	background-color: rgb(255,204,255);
+}
+.contact_link {
+	background-color: rgb(255,204,255);
+}
+.home_link p {
+	font-family: Lucida Console, Monaco, monospace;
+}
+.home_link p {
+	font-family: Verdana, Geneva, sans-serif;
+}
+.home_link table tr td {
+	font-family: Tahoma, Geneva, sans-serif;
+}
+.home_link table tr td {
+	font-family: Comic Sans MS, cursive;
+}
