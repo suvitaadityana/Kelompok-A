@@ -1,0 +1,15 @@
+@charset "utf-8";
+.menu_link {
+}
+.home_link {
+	background-color: rgb(51,204,204);
+}
+.input_link {
+	background-color: rgb(255,153,153);
+}
+.view_link {
+	background-color: rgb(0,255,204);
+}
+.logout_link {
+	background-color: rgb(255,153,255);
+}
